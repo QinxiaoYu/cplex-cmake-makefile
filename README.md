@@ -6,7 +6,7 @@
 
 ## Makefile
 
-## Using a makefile in a cmake file
+### Using a makefile in a cmake file
 
 ```cmake
 add_custom_target(<PROJECT_NAME> COMMAND make -C ${PROJECT_SOURCE_DIR} CLION_EXE_DIR=${PROJECT_BINARY_DIR})
