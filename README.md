@@ -6,6 +6,8 @@
 
 ## Makefile
 
+- Written for Mac OSX
+
 ### Using a makefile in a cmake file
 
 ```cmake
